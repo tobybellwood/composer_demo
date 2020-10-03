@@ -1,0 +1,16 @@
+{
+    "name": "tobybellwood/composer_demo",
+    "type": "project",
+    "require": {
+        "cweagans/composer-patches": "^1.6"
+    },
+    "require-dev": {
+        "pyrech/composer-changelogs": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "Toby Bellwood",
+            "email": "toby.bellwood@amazee.com"
+        }
+    ]
+}
